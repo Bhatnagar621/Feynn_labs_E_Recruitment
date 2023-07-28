@@ -1,0 +1,26 @@
+FIELDS OF INTEREST
+• CyberSecurity, Machine Learning and Web Development
+TECHNICAL SKILLS
+• Languages (C(intermediate), C++(intermediate), Java(core),Python(intermediate))
+• Database (MySQL,Oracle)
+• Script (Javascript,Python)
+• Web Development (HTML,CSS,JAVASCRIPT,php).
+• Others (Eclipse,JDBC,JSP).
+PROJECTS
+• Sorting Visualizer
+◦ Objective :Visualization of different sorting algorithms using javascript. .
+◦ Selection of array size and speed of visualization.
+◦ language used is CSS,Javascript,HTML
+• Stock Prediction Web App
+◦ Objective : Is to create a powerful Python-based tool for visualizing stock data and incorporate web
+development aspects
+◦ language used is Python
+• Hate Speech Detection
+◦ Objective :Python code to detect hate speech and classify twitter texts using NLP techniques and Machine Learning
+◦ Python
+STRENGTHS
+• Positive Attitude,Detail-oriented,Social Interaction, Hardworking,Team player Leadership, Self-motivated,
+Fast learner
+INTEREST AND HOBBIES
+• Reading books
+• Watching Documentries

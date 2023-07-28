@@ -1,0 +1,25 @@
+Technical Skills
+Languages: C++, JavaScript
+Frameworks & Technologies: React.js, HTML, CSS
+Area of Interest: Problem Solving, Software Development, Web Development
+Experience
+Software Development Intern CASAMED May 2022 – July 2022
+• CASAMED provides effective & efficient pain management solutions for people struggling with mobility disorders.
+• Integrated multilingual support in the mobile app using i18next framework to help vernacular demographics
+• Improved website performance by 4% & decreased loading time by 29% by serving images in nextgen formats
+• Optimised customer support by remodeling the contact us webpage to have more detailed data fields of the users
+• Exposure: React.js, i18next, MongoDB trigger, Mailgun
+Projects
+Admin Dashboard — CASAMED July 2022 – July 2022
+• Created the dashboard for internal use that displays data like total users, no. of subscriptions purchased, etc.
+• The dashboard can further be customized using the date range filter, and it also has dark & light modes features.
+• Created sections containing lists that support sorting and filtering along with actions available like add and delete.
+• Exposure: React.js, Material-UI
+Internship Portal— E-Cell May 2021 – June 2021
+• Developed a user-friendly and responsive frontend with the help of Bootstrap, keeping CSS as minimal as possible.
+• The internship portal was implemented using different react hooks & react-router to make a smooth user interface.
+• The internships data is fetched from firestore and is being displayed using a reusable card and modal component.
+• Exposure: React.js, Firestore, Firebase Bootstrap.
+Honours and Achievements
+• Department Rank 2 for the B.Tech 2023 batch at the Department of Ceramic Engineering.
+• Awarded Certificate of Merit in Organizational Awards given by Gymkhana IIT BHU for session 2021-22

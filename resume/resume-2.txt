@@ -1,0 +1,32 @@
+ Travel Agency System 
+o Developed a system for booking any means of transport (train/bus/flight) for travelling to specified locations 
+as a trip which reduced manual work and helped the admin to maintain the records efficiently. 
+o Tools used – A combination of Linked List and Data File Handling used in C++ code.
+ Reddit Database Clone
+o Developed a DBMS similar to Reddit Database with queries. It can be integrated with any API.
+o Tools used – MYSQL workbench, MYSQL server.
+ Facial Recognition
+o Developed a real time face recognition project using opencv in Python language.
+o Used Haar cascade classifier algorithm for object detection in the frame.
+ Data Structures and Algorithms – C/C++.
+ Web Development- HTML, CSS.
+ Soft Skills - Management, Public speaking, Leadership quality, Creative thinking, Presentation skills, 
+Management skills and Ability to work well under pressure.
+ Art Secretary
+o Appointed as the lead office bearer, responsible for overall operations and functioning of the art related 
+work of the whole society of 300+ members and 50+ artists of different genres. 
+o Leading the Core Art team of the Society.
+ Art Mentor
+o Collaborated with Educational Institutes for hosting webinars.
+o As a Coordinator in RIWAYAT (2022) (Art Exhibition), organized by Kalakriti DTU.
+o Managed the Creative team of E-cell (Entrepreneurship cell of DTU).
+o Volunteered at wall painting at GAYANKUNJ NGO. 
+o Conducted 2 Art Workshops (Invert Art and Pencil/Charcoal sketching) under Kalakriti-DTU.
+ School House Captain
+o Managed my fellow housemates. 
+o Made sure our team excelled in all sports and academic activities. 
+o Helped in maintaining decorum in school, with other captains.
+ Was selected as a mentee in Microsoft Intern Engage 2022.
+ Secured 2nd position twice (2013, 2015) at inter-zonal science project competition. 
+ School topper of International Olympiad of science, silver zone (2018). 
+ Hobbies: Sketching, Basketball and listening music.

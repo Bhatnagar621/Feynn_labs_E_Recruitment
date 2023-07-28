@@ -1,0 +1,25 @@
+POSITIONS OF RESPONSIBILITY
+MEMBER OF NINE-IS-MINE SOCIAL JUSTICE GROUP
+• Worked with a team in organising the society’s events.
+• Visited under-privileged schools to analyse their issues and guide them.
+CONTENT WRITER FOR TEDx
+• Composed content for newsletters, forms, and social platforms.
+• Brainstormed ideas to promote TEDxBITJAIPUR.
+MEMBER OF CULTURAL COMMITTEE
+• Organized the annual cultural fest
+• Participated in organising college events.
+TECHNICAL SKILLS
+• LANGUAGES: Python, Java, Dart (Flutter), C
+• FRAMEWORKS & TECHNOLOGIES: Android Studio, MySQL, HTML, CSS
+• AREAS OF INTEREST: Problem Solving, Data Structures, Machine Learning, Database 
+Management
+PROJECTS
+PARKINSON’S DISEASE DETECTION (April’23-in progress)
+• A Machine Learning model to detect Parkinson’s Disease in a patient based on images of their 
+drawings of spirals and waves.
+FACIAL RECOGNITION (May’22-May’22)
+• A facial recognition program that uses Haar-Cascades from OpenCV to train different faces from 
+photos provided and/or from using the front camera and then recognize them.
+WEATHER APPLICATION (Aug’21-Sep’21)
+• A basic Android Application that uses OpenweatherAPI to display the weather of any recognized 
+city on the press of a button
